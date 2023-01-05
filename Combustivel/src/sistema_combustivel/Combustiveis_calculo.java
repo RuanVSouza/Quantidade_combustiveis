@@ -6,6 +6,8 @@ public class Combustiveis_calculo {
 
 	public static void main(String[] args) {
 		
+		//testando git - novo commit
+
 		Scanner sc = new Scanner(System.in);
 		
 		int alcool = 0;
